@@ -1,0 +1,12 @@
+{
+  "name": "Cloaks",
+  "modId": "Cloaks",
+  "author": "Syz66",
+  "version": "0.1.0",
+  "mixinConfigs": [
+    "cloaks.mixins.json"
+  ],
+  "entrypoints": [
+    "me.zircta.cloaks.Main"
+  ]
+}
